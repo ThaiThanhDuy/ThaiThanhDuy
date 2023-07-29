@@ -34,8 +34,8 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,md" /><br>
-    <img src="https://skillicons.dev/icons?i=ros,tensorflow" /><br>
-    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,git,cmake,unity,matlab,linux" />
+   
+    <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,git,unity,matlab,linux" /><br>
 </div>
 
 
