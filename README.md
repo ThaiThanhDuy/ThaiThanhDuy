@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:just.electric.4.fun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cs,c,cpp,cmake" /><br>
-    <img src="https://skillicons.dev/icons?i=github,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=python,cs,c,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=github,vscode,git,cmake" />
 </div>
 
 <br/>
