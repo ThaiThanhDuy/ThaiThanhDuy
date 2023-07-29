@@ -4,11 +4,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&width=435&lines=Hello+World!+I'm+Duy" alt="Typing SVG" /></a>
 </h1>
 
-
-
-
- 
-<h2 align="center">🌳 Languages-Frameworks-Tools 🌳</h2>
 <div align="left">
  
  🔭 I’m currently working on **robotics**
@@ -32,6 +27,11 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+
+
+ 
+<h2 align="center">🌳 Languages-Frameworks-Tools 🌳</h2>
 
  <hr/>
 <br/>
