@@ -68,7 +68,7 @@
 <hr/>
 
 <h3 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&width=435&lines=See+you+again%F0%9F%98%BD" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&width=435&lines=Bye!+See+you+again%F0%9F%98%BD" alt="Typing SVG" /></a>
 </h3>
 
 <br/>
