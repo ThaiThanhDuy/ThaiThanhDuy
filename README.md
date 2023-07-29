@@ -53,7 +53,7 @@
 <hr/>
 
 <h2 align="center">✨ Stats ✨</h2>
-<br>
+
 <div>
  
 <a> <img width=410 src="https://github-readme-streak-stats.herokuapp.com?user=ThaiThanhDuy&theme=tokyonight" alt="streak stats"> </a>
@@ -64,7 +64,6 @@
 </div>
 
 
- <br/>
 
 </div>
 <hr/>
