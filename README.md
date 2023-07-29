@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🌳 Languages-Frameworks-Tools 🌳</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,md" /><br>
@@ -44,7 +44,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions 👨‍💻</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ThaiThanhDuy/ThaiThanhDuy/output/github-contribution-grid-snake.svg" />
   <br/>
@@ -52,7 +52,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">✨ Stats ✨</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=ThaiThanhDuy&theme=tokyonight-duo&border_radius=5" alt="streak stats"/>
