@@ -31,7 +31,6 @@
 
 <h2 align="center">🌳 Languages-Frameworks-Tools 🌳</h2>
 
- <hr/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,md" /><br>
@@ -39,7 +38,6 @@
     <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,git,cmake,unity,matlab,linux" />
 </div>
 
-<hr/>
 
 <div align="center">
   <h2> My Contributions 👨‍💻</h2>
