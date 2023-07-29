@@ -54,14 +54,12 @@
 
 <h2 align="center">✨ Stats ✨</h2>
 
-<div>
  
 <a> <img width=410 src="https://github-readme-streak-stats.herokuapp.com?user=ThaiThanhDuy&theme=tokyonight" alt="streak stats"> </a>
 <a><img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiThanhDuy&hide=HTML&langs_count=8&layout=donut-vertical&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </a>
  <div align="center">
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=ThaiThanhDuy&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
 
-</div>
 
 
 
