@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **robotics**
  
- 🌱 I’m currently learning ** C, C++, C#, Python **
+ 🌱 I’m currently learning **C, C++, C#, Python**
 
  💬 Ask me about **C, C++, C#, Python ... or anything [here](https://github.com/ThaiThanhDuy/ThaiThanhDuy/issues)**
 
