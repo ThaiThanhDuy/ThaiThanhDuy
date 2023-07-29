@@ -12,7 +12,7 @@
 
  💬 Ask me about **C, C++, C#, Python ... or anything [here](https://github.com/ThaiThanhDuy/ThaiThanhDuy/issues)**
 
- ⚡ Fun fact **Robot can simle**
+ ⚡ Fun fact **Robot can't do anything**
  
  </div>
  
