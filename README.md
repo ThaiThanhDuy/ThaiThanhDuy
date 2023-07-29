@@ -14,7 +14,7 @@
 
  💬 Ask me about **C, C++, C#, Python ... or anything [here](https://github.com/ThaiThanhDuy/ThaiThanhDuy/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **Robot can simle**
  
  </div>
  
