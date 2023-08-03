@@ -42,7 +42,7 @@
 <div align="center">
   <h2> My Contributions 👨‍💻</h2>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ThaiThanhDuy/ThaiThanhDu/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ThaiThanhDuy/ThaiThanhDuy/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -52,7 +52,7 @@
 
  
 <a> <img width=450 align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ThaiThanhDuy&theme=tokyonight" alt="streak stats"> </a>
-<a><img width=310 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiThanhDuy&hide=HTML&langs_count=8&layout=donut-vertical&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </a>
+<a><img width=310 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiThanhDuy&hide=HTML&langs_count=8&layout=donut&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </a>
 
 <div align ="left"><img width=450  height =300 align="center" src="https://github-readme-stats.vercel.app/api?username=ThaiThanhDuy&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" /> </div>
 
