@@ -33,8 +33,8 @@
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,md" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux" /><br>
+
 
 </div>
 
