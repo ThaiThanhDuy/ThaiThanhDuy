@@ -6,11 +6,11 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **robotics**
+ 🔭 I’m currently working on **embedded system**
  
  🌱 I’m currently learning **C, C++, Python**
 
- 💬 Ask me about **[here](https://github.com/ThaiThanhDuy/ThaiThanhDuy/issues)**
+ 💬 Ask me in **[here](https://github.com/ThaiThanhDuy/ThaiThanhDuy/issues)**
 
  ⚡ Fun fact **Life is better with coffee, books and cats**
  
