@@ -8,9 +8,9 @@
  
  🔭 I’m currently working on **robotics**
  
- 🌱 I’m currently learning **C, C++, C#, Python**
+ 🌱 I’m currently learning **C, C++, Python**
 
- 💬 Ask me about **C, C++, C#, Python ... or anything [here](https://github.com/ThaiThanhDuy/ThaiThanhDuy/issues)**
+ 💬 Ask me about **[here](https://github.com/ThaiThanhDuy/ThaiThanhDuy/issues)**
 
  ⚡ Fun fact **Life is better with coffee, books and cats**
  
