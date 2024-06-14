@@ -29,7 +29,7 @@
 </div>
 
 
-<h2 align="center">🌳 Something I Know🌳</h2>
+<h2 align="center">Something I Know</h2>
 
 
 <div align="center">
@@ -40,7 +40,7 @@
 
 
 <div align="center">
-  <h2> My Contributions 👨‍💻</h2>
+  <h2> My Contributions </h2>
 
   <img alt="snake eating my contributions" src="https://github.com/ThaiThanhDuy/ThaiThanhDuy/blob/output/github-contribution-grid-snake-dark.svg" />
 
