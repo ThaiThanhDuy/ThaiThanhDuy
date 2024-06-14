@@ -38,6 +38,7 @@
 </div>
 
 
+<h2 align="center"></h2>
 <div align="center">
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1000&pause=10000&color=F7F7F7&center=true&random=false&width=1000&lines=My+Contributions" alt="Typing SVG" /></a>
@@ -48,7 +49,6 @@
 
 
 
-<h2 align="center"></h2>
 
  
 <a> <img width=400  align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ThaiThanhDuy&theme=tokyonight&border_radius=20" alt="streak stats"> </a>
