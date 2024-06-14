@@ -49,7 +49,7 @@
 
 
 
-<h2 align="center">✨ Stats ✨</h2>
+<h2 align="center"></h2>
 
  
 <a> <img width=400  align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ThaiThanhDuy&theme=tokyonight&border_radius=20" alt="streak stats"> </a>
