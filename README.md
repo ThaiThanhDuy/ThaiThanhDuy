@@ -12,7 +12,7 @@
 
  💬 Ask me in **[here](https://github.com/ThaiThanhDuy/ThaiThanhDuy/issues)**
 
- 😸 Fun fact **Life is better with coffee, books and cats**
+ 😸 Fun fact **Code is better with coffee, books and cats**
  
  </div>
  
