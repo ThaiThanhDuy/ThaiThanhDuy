@@ -31,11 +31,9 @@
 
 <h2 align="center">Something I Know</h2>
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=300&height=100&lines=Something+I+Know" alt="Typing SVG" /></a>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux" /><br>
-
-
 </div>
 
 
