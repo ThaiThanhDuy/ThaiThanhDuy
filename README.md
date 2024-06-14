@@ -1,12 +1,12 @@
 
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&weight=1000&width=435&lines=Hello+World!+I'm+Duy" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&weight=900&width=435&lines=Hello+World!+I'm+Duy" alt="Typing SVG" /></a>
 </h1>
 
 <div align="left">
  
- 🔭 I’m currently working on **embedded system**
+ 🔭 I’m currently working on **Embedded system**
  
  🌱 I’m currently learning **C, C++, Python**
 
