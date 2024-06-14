@@ -31,7 +31,7 @@
 
 <h2 align="center">Something I Know</h2>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&width=435&lines=Hello+World!+I'm+Duy" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&size=35&pause=1000&color=FFFFFF&width=435&lines=Hello+World!+I'm+Duy" alt="Typing SVG" /></a>
   
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux" /><br>
