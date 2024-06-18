@@ -30,12 +30,7 @@
 
 
 
-<h2 align="center"></h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1100&pause=10000&color=F7F7F7&center=true&random=false&width=1000&repeat=false&size=25&lines=Something+I+Know" alt="Typing SVG" /></a>
-  
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux" /><br>
-</div>
+
 
 
 <h2 align="center"></h2>
@@ -51,7 +46,11 @@
 <a> <img width=400  align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ThaiThanhDuy&theme=blueberry-duo&border_radius=20&hide_border=true" alt="streak stats"> </a>
 <a><img width=400 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaiThanhDuy&hide=HTML&langs_count=4&layout=donut&theme=tokyonight&show_icons=true&bg_color=00000000&border_radius=20&size_weight=1&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" /> </a>
 
+<h2 align="center"></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1100&pause=10000&color=F7F7F7&center=true&random=false&width=1000&repeat=false&size=25&lines=Something+I+Know" alt="Typing SVG" /></a>
+  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux" />
+</div>
 
-
-<br/>
 
