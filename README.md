@@ -37,7 +37,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1100&pause=10000&color=F7F7F7&center=true&random=false&width=1000&repeat=false&size=25&lines=My+Contact" alt="Typing SVG" /></a>
 
-
+<div align="center">
   <a href="mailto:just.electric.4.fun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
