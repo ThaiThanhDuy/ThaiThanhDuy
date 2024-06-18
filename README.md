@@ -29,14 +29,14 @@
 </div>
 
 
-%%
+
 <h2 align="center"></h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1100&pause=10000&color=F7F7F7&center=true&random=false&width=1000&repeat=false&size=25&lines=Something+I+Know" alt="Typing SVG" /></a>
   
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux" /><br>
 </div>
-%%
+
 
 <h2 align="center"></h2>
 <div align="center">
