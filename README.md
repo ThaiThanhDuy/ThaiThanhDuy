@@ -3,18 +3,6 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=FFFFFF&weight=900&width=435&lines=Hello+World!+I'm+Duy" alt="Typing SVG" /></a>
 </h1>
-
-<div align="left">
- 
- 🔭 I’m currently working on **Embedded system**
- 
- 🌱 I’m currently learning **C, C++, Python**
-
- 💬 Ask me in **[here](https://github.com/ThaiThanhDuy/ThaiThanhDuy/issues)**
-
- 😸 Fun fact **Code is better with coffee, books and cats**
- 
- </div>
  
 
 <!-- 2 -->
@@ -23,7 +11,7 @@
 <h2 align="center"></h2>
 <div align="center">
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1100&pause=10000&color=F7F7F7&center=true&random=false&width=1000&repeat=false&size=25&lines=My+Contributions" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1100&pause=10000&color=F7F7F7&center=true&random=false&width=1000&repeat=false&size=25&lines=My+Repository" alt="Typing SVG" /></a>
   <img alt="snake eating my contributions" src="https://github.com/ThaiThanhDuy/ThaiThanhDuy/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
