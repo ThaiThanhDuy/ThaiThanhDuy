@@ -22,11 +22,20 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      # Bước xử lý hậu kỳ (Post-processing): Xóa thẻ text hiển thị ngày tháng năm trong SVG
+      - name: Remove Date/Time Text from SVG
+        run: |
+          if [ -d "profile-3d-contrib" ]; then
+            echo "Processing SVG files to remove date text..."
+            # Lệnh sed tìm và xóa các dòng text có định dạng chứa ngày tháng năm (YYYY-MM-DD)
+            sed -i -E '/<text[^>]*>[0-9]{4}-[0-9]{2}-[0-9]{2}/d' profile-3d-contrib/*.svg
+          fi
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated: update 3d contributions"; then
+          if git commit -m "generated: remove date text from svg files"; then
             git push
           fi
