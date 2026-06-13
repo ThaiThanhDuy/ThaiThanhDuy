@@ -21,23 +21,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          # Ép buộc hệ thống sử dụng bảng màu xanh lá cây trên nền tối
           theme: github-dark
           style: theme
-
-      # Bước xử lý hậu kỳ (Post-processing): Chỉ xóa nội dung trong thẻ text đồ họa
-      - name: Remove Date Text Safely from SVG Text Tags
-        run: |
-          if [ -d "profile-3d-contrib" ]; then
-            echo "Targeting only SVG text elements to remove timeline..."
-            # Sử dụng định dạng chính xác để cô lập phần tử text hiển thị dòng ngày tháng
-            sed -i -E 's/<text([^>]* text-anchor="end"[^>]*)>[0-9]{4}-[0-9]{2}-[0-9]{2} \/ [0-9]{4}-[0-9]{2}-[0-9]{2}<\/text>/<text\1><\/text>/g' profile-3d-contrib/*.svg
-          fi
 
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated: safely cleared date text from svg nodes"; then
+          if git commit -m "generated: change color theme to green"; then
             git push
           fi
