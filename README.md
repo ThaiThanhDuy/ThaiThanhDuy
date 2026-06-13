@@ -4,7 +4,7 @@
   </a>
   <br/><br/>
   
-  <img src="https://raw.githubusercontent.com/ThaiThanhDuy/ThaiThanhDuy/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/ThaiThanhDuy/ThaiThanhDuy/output/github-contribution-grid-snake-light.svg" alt="snake eating my contributions light theme" />
   
   <br/><br/>
   
