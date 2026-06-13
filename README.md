@@ -4,11 +4,9 @@
   </a>
   <br/><br/>
   
-  <img src="https://github.com/ThaiThanhDuy/ThaiThanhDuy/raw/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/ThaiThanhDuy/ThaiThanhDuy/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
   
   <br/><br/>
   
-  <!-- Hiển thị biểu đồ khối 3D (Isometric) -->
-<!-- Hiển thị biểu đồ khối 3D (Isometric) -->
-<img src="https://github.com/ThaiThanhDuy/ThaiThanhDuy/raw/output-3d/profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contributions" />
+  <img src="https://raw.githubusercontent.com/ThaiThanhDuy/ThaiThanhDuy/output-3d/profile-green-animate.svg" alt="3D Isometric Contributions" />
 </div>
