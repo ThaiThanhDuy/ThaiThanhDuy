@@ -21,7 +21,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
+          theme: github-dark
+          style: theme
       # Bước xử lý hậu kỳ (Post-processing): Xóa thẻ text hiển thị ngày tháng năm trong SVG
       - name: Remove Date/Time Text from SVG
         run: |
