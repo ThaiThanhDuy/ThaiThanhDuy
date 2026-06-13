@@ -10,5 +10,5 @@
   
 <!-- Hiển thị biểu đồ khối 3D (Isometric) - Đường dẫn chuẩn xác theo cấu trúc nhánh -->
   <!-- Hiển thị biểu đồ khối 3D lấy từ nhánh main của hệ thống chính chủ -->
-  <img src="https://raw.githubusercontent.com/ThaiThanhDuy/ThaiThanhDuy/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Isometric Contributions" />
+  <img src="https://raw.githubusercontent.com/ThaiThanhDuy/ThaiThanhDuy/main/profile-3d-contrib/profile-night-view.svg" alt="GitHub Profile 3D Analytics" />
 </div>
