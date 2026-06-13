@@ -10,6 +10,6 @@
 <!-- 2 -->
 
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=25&duration=1500&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&width=450&lines=My+contributions+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=25&duration=1500&pause=10000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=450&lines=My+contributions+" alt="Typing SVG" /></a>
   <img alt="snake eating my contributions" src="https://github.com/ThaiThanhDuy/ThaiThanhDuy/blob/output/github-contribution-grid-snake-dark.svg" />
 
