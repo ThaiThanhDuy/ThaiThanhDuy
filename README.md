@@ -8,5 +8,6 @@
   
   <br/><br/>
   
-  <img src="https://raw.githubusercontent.com/ThaiThanhDuy/ThaiThanhDuy/output-3d/profile-green-animate.svg" alt="3D Isometric Contributions" />
+  <!-- Hiển thị biểu đồ khối 3D (Isometric) -->
+  <img src="https://github.com/ThaiThanhDuy/ThaiThanhDuy/raw/output-3d/profile-green-animate.svg" alt="3D Isometric Contributions" />
 </div>
