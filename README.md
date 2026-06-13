@@ -10,7 +10,7 @@
 <!-- 2 -->
 
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=1100&pause=10000&color=F7F7F7&center=true&random=false&width=1000&repeat=false&size=25&lines=My+Repository" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=25&duration=1500&pause=500&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&width=450&height=80&lines=Welcome+to+my+Repository;My+contributions+" alt="Typing SVG" /></a>
   <img alt="snake eating my contributions" src="https://github.com/ThaiThanhDuy/ThaiThanhDuy/blob/output/github-contribution-grid-snake-dark.svg" />
 
 <!-- Phần 1: Streak Stats (ẩn) -->
