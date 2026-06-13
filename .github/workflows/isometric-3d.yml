@@ -21,15 +21,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          # Ép buộc hệ thống sử dụng bảng màu xanh lá cây trên nền tối
           theme: github-dark
           style: theme
+
+      # Bước xử lý hậu kỳ (Post-processing): Xóa bỏ dòng ngày tháng và làm trong suốt nền
+      - name: Clean SVG Analytics & Make Transparent
+        run: |
+          if [ -d "profile-3d-contrib" ]; then
+            echo "Processing SVG files to fix background and timeline..."
+    
+            # 2. Ép thuộc tính fill của thẻ rect nền (background) về dạng trong suốt (transparent/none)
+            sed -i -E 's/<rect([^>]*width="100%"[^>]*height="100%"[^>]*fill=")[^"]+("[^>]*\/>)/<rect\1none\2/g' profile-3d-contrib/*.svg
+          fi
 
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated: change color theme to green"; then
+          if git commit -m "generated: removed timeline and set transparent background"; then
             git push
           fi
